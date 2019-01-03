@@ -1,0 +1,1 @@
+<https://discuss.reactjs.org/t/how-to-determine-what-type-of-component-a-child-is/3951/2>

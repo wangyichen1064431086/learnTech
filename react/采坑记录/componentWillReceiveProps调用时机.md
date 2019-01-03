@@ -1,0 +1,3 @@
+在通过事件改变state之后，也要调用componentWillReceiveProps，无论prop有没有变化。
+
+也就是说，只要发生了updateComponent,就会首先调用componentWillReceiveProps，无论更新的是props还是state。
